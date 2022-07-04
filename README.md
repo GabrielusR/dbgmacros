@@ -1,1 +1,1 @@
-# Useful debugging and error handling macros
+Useful debugging and error handling macros
